@@ -1,0 +1,9 @@
+@import url(sheet_heading.css);
+@import url(sheet_fieldset.css);
+@import url(sheet_input.css);
+form{
+	text-align: center;
+}
+form fieldset{
+	text-align: center;
+}

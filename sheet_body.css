@@ -1,0 +1,22 @@
+/*!!!Styling body!!!*/
+
+body{
+	max-width: 1200px;
+	margin: auto;
+	font-family: ChunkFiveRegular, Georgia, serif;
+	font-size: 130%;
+	padding: 10px;
+	border: 3px double #34675C;
+	border-radius: 10px;
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+	background-color: #003B46;
+	//color: #E4EA8C;
+	text-decoration: none;
+	font-style: italic;
+	text-align: left;
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("backgrounds/netherlands_zaanse_schans_dutch_village-wallpaper-2880x1620.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
